@@ -1,0 +1,4 @@
+#Fri Nov 04 13:08:39 BDT 2022
+base.0=D\:\\Project\\fashan_zone\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
